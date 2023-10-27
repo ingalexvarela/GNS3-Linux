@@ -48,6 +48,12 @@ sudo ./install_gns3.sh
 ## Contribución
 Si encuentras errores o mejoras para este script, no dudes en contribuir. ¡Hagamos que la instalación de GNS3 y Docker en Ubuntu sea más sencilla para todos!
 
+## Recursos adicionales
+
+- Consulta la [documentación oficial de GNS3 para instalación en Linux](https://docs.gns3.com/docs/getting-started/installation/linux/) para obtener información detallada sobre la instalación en diferentes distribuciones de Linux.
+
+Esta documentación oficial proporciona instrucciones específicas para diferentes sistemas Linux y puede servir como referencia adicional para la instalación y configuración de GNS3.
+
 ## Licencia
 Este proyecto está bajo la [Licencia MIT](https://opensource.org/licenses/MIT). Consulta el [texto completo de la Licencia MIT](https://opensource.org/licenses/MIT) en el sitio web de OSI para obtener más detalles.
 
