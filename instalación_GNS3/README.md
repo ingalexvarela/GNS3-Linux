@@ -56,7 +56,7 @@ Este proyecto está bajo la [Licencia MIT](https://opensource.org/licenses/MIT).
 - Ing. Alex Alberto Varela Quirós
 - correo: alex.varela@ucr.ac.cr
 - tel: +50685525005
-- GitHub: [Repositorio](https://github.com/ingalexvarela/HackRF-One-Projects)
+- GitHub: [Repositorio](https://github.com/ingalexvarela/GNS3-Linux)
 
 [![iconopeque.jpg](https://i.postimg.cc/hvtdRL0p/iconopeque.jpg)](https://postimg.cc/k6L4xtzb)
 
