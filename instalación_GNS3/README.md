@@ -51,5 +51,13 @@ Si encuentras errores o mejoras para este script, no dudes en contribuir. ¡Haga
 ## Licencia
 Este proyecto está bajo la [Licencia MIT](https://opensource.org/licenses/MIT). Consulta el [texto completo de la Licencia MIT](https://opensource.org/licenses/MIT) en el sitio web de OSI para obtener más detalles.
 
+## Contacto
+
+- Ing. Alex Alberto Varela Quirós
+- correo: alex.varela@ucr.ac.cr
+- tel: +50685525005
+- GitHub: [Repositorio](https://github.com/ingalexvarela/HackRF-One-Projects)
+
+[![iconopeque.jpg](https://i.postimg.cc/hvtdRL0p/iconopeque.jpg)](https://postimg.cc/k6L4xtzb)
 
 
